@@ -5,6 +5,6 @@ num  = int(input("Enter a number : "))
 for i in range(1,num+1):
     result = num*i
     print(result)
-    file.write(str(result))
+    file.write(str(f"The Multiply between {i} and {num} is {result}") + "\n")
 
 file.close()
