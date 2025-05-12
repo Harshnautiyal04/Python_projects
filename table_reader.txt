@@ -1,0 +1,10 @@
+The Multiply between 1 and 10 is 10
+The Multiply between 2 and 10 is 20
+The Multiply between 3 and 10 is 30
+The Multiply between 4 and 10 is 40
+The Multiply between 5 and 10 is 50
+The Multiply between 6 and 10 is 60
+The Multiply between 7 and 10 is 70
+The Multiply between 8 and 10 is 80
+The Multiply between 9 and 10 is 90
+The Multiply between 10 and 10 is 100
